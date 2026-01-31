@@ -7,15 +7,15 @@ I'm Huy, a back developer based in Ho Chi Minh City, Vietnam.
 
 ### My Stack
 
-- **Languages:** PHP, Javascript, HTML/CSS.
-- **Frameworks:** Laravel 12, VueJS.
-- **Database:** Redis cache, MySQL, PostGreSQL, MongoDB.
-- **Tools:** Docker, Postman, Composer, Vite, Git.
-- **Advanced:** RESTful API, JWT Auth, Queue & Jobs, Swagger UI, PHPUnit.
+- **Languages:** PHP, javascript (Nodejs), HTML/CSS.
+- **Frameworks:** Laravel, VueJS, ExpressJS.
+- **Database:** MySQL, PostGreSQL, MongoDB.
+- **Technologies:** RESTful API, JWT, Docker, Postman, Composer, Vite, Git.
+ 
 
 ### Education
 
 **Van Lang University** (HCMC, Vietnam) 09/2021 - 12/2025
 
 - **Major:** Information Technology
-- **Current GPA:** 3.19/4
+- **GPA:** 3.21/4 (Graduated Very Good)
