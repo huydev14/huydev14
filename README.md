@@ -7,11 +7,11 @@ I'm Huy, a back-end developer based in Ho Chi Minh City, Vietnam.
 
 ### My Stack
 
-**Languages:** PHP, JavaScript, HTML/CSS
-**Back-end:** Laravel, CodeIgniter, ExpressJS, Node.js, JWT, OAuth 2.0, RESTful API
-**Front-end:** jQuery, Ajax, Tailwind CSS, SCSS, Blade Templates
-**Database:** MySQL, MongoDB
-**Tools:** Docker, Postman, Git
+- **Languages:** PHP, JavaScript, HTML/CSS
+- **Back-end:** Laravel, CodeIgniter, ExpressJS, Node.js, JWT, OAuth 2.0, RESTful API
+- **Front-end:** jQuery, Ajax, Tailwind CSS, SCSS, Blade Templates
+- **Database:** MySQL, MongoDB
+- **Tools:** Docker, Postman, Git
  
 ### Education
 
