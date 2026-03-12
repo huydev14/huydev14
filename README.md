@@ -7,9 +7,9 @@ I'm Huy, a back-end developer based in Ho Chi Minh City, Vietnam.
 
 ### My Stack
 
-- **Languages:** PHP, JavaScript, HTML/CSS
-- **Back-end:** Laravel, CodeIgniter, ExpressJS, Node.js, JWT, OAuth 2.0, RESTful API
-- **Front-end:** jQuery, Ajax, Tailwind CSS, SCSS, Blade Templates
+- **Languages:** PHP, JavaScript
+- **Back-end:** Laravel, CodeIgniter, Express.js, Node.js, JWT, OAuth 2.0, RESTful API
+- **Front-end:** jQuery, ajax, TailwindCSS, SCSS, Blade, html/css
 - **Database:** MySQL, MongoDB
 - **Tools:** Docker, Postman, Git
  
@@ -17,5 +17,5 @@ I'm Huy, a back-end developer based in Ho Chi Minh City, Vietnam.
 
 **Van Lang University** (HCMC, Vietnam) 09/2021 - 12/2025
 
-- **Major:** Information Technology
-- **GPA:** 3.21/4 (Graduated Very Good)
+- **Major:** Software Engineering
+- **GPA:** 3.21/4 (graduated Very Good)
