@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img src="svg/huydev14.svg" width="1200" alt="huydev14" />
 </div>
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me -->
 
 Hi there! I'm **Huy**, a Backend Developer with years of experience in developing and maintaining web applications using PHP (Laravel, CodeIgniter).
 
