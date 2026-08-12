@@ -15,5 +15,5 @@ Hi there! I'm **Huy**, a Backend Developer with years of experience in developin
 ### 🛠️ Tech Stack
 
 - **Back-end:** PHP (Laravel, CodeIgniter), Node.js (Express.js), RESTful API, JWT, OAuth 2.0, Queue, Redis, MySQL
-- **Front-end:** Vue.js, Tailwind, Bootstrap Sass/SCSS, JavaScript, jQuery, Ajax, HTML/CSS
+- **Front-end:** Vue.js, AlpineJS, HTMX, Tailwind, Bootstrap, Sass/SCSS, JavaScript, jQuery, Ajax, HTML/CSS
 - **Tools:** Git, Postman, Cloudinary, Hosting, AWS
